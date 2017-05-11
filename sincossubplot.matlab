@@ -1,4 +1,4 @@
-%amplitude modulation
+%sin cos step subplot
 clc;
 clear all;
 close all;
